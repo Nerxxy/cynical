@@ -7,7 +7,7 @@
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
+    background: url(disconnected.png);
 }
 
 .xbox .trigger {
