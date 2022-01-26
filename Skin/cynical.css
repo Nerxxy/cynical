@@ -45,6 +45,16 @@
     opacity: 0;
 }
 
+.xbox .back {
+    float: left;
+}
+
+.xbox .start {
+    background-position: 33px 0px;
+    float: right;
+}
+
+
 .xbox .abxy {
     position: absolute;
     width: 153px;
